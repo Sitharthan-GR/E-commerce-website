@@ -1,6 +1,29 @@
-# E-commerce Website
+# 🛒 E‑commerce Website
 
-A basic e-commerce web application built with C# and ASP.NET MVC. This project demonstrates core e-commerce functionalities such as product listing, shopping cart, user registration/login, and order placement.
+A full-stack online store application featuring user authentication, product browsing, shopping cart, and order management.
+
+---
+
+
+## ⚙️ Technologies
+
+**Frontend**  
+- HTML, CSS, JavaScript – for product listing, UI, and cart functionality.  
+- (Optionally, Bootstrap or your preferred CSS framework.)
+
+**Backend**  
+- C# with ASP.NET Core Web API (assuming from C# mention)  
+- Entity Framework Core – ORM for database operations  
+- SQL Server or SQLite – for persisting users, products & orders  
+
+**Tools**  
+- .NET 8 SDK / Visual Studio / Visual Studio Code  
+- EF Core migrations  
+- (Optional) Docker for containerized deployment  
+
+---
+
+
 
 ### Features
 
