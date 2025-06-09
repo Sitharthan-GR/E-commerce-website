@@ -9,7 +9,7 @@ A full-stack online store application featuring user authentication, product bro
 
 **Frontend**  
 - HTML, CSS, JavaScript – for product listing, UI, and cart functionality.  
-- (Optionally, Bootstrap or your preferred CSS framework.)
+
 
 **Backend**  
 - C# with ASP.NET Core Web API (assuming from C# mention)  
