@@ -12,7 +12,7 @@ A full-stack online store application featuring user authentication, product bro
 
 
 **Backend**  
-- C# with ASP.NET Core Web API (assuming from C# mention)  
+- C# with ASP.NET Core Web API  
 - Entity Framework Core – ORM for database operations  
 - SQL Server or SQLite – for persisting users, products & orders  
 
